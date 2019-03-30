@@ -17,4 +17,3 @@ $$x_{n+1}=x_n-\frac{f(x_n)}{f’(x_n)}=x_n-\frac{f(x_n)}{\frac{f(x_n+\Delta)-f(x
 ![](https://ws3.sinaimg.cn/large/006tKfTcly1g1jzt3a9tzj30sq0uy12p.jpg)
 
 ## 曾经沧海难为水，除却巫山不是云。
-# Newton_Iteration
